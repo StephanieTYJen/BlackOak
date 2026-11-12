@@ -1,0 +1,3 @@
+Label,Shape Type,Num,Density,Image Area,Density Unit,Image Area Unit,Measurement Unit,Scale (unit/pixel),Coordinate Unit
+stoma,polygon,3,3.527336860670194e-06,850500,count/pixel²,pixel²,pixel,1.0,pixel
+pore,polygon,3,3.527336860670194e-06,850500,count/pixel²,pixel²,pixel,1.0,pixel
